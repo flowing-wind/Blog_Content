@@ -31,4 +31,4 @@ If it disdained its brother;
 And the sunlight clasps the earth  
 And the moonbeams kiss the sea:  
 What is all this sweet work worth  
-If thou kiss not me?  
+If thou kiss not me? 
