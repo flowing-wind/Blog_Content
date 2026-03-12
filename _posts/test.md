@@ -2,7 +2,7 @@
 author: Fuuraiko
 pubDatetime: 2026-03-12T08:18:49Z
 modDatetime: 
-title: Demo
+title: Test
 slug: 
 featured: false
 draft: false
@@ -10,11 +10,9 @@ tags:
   - astro
   - blog
   - test
-description: Demo for blog post
+description: Test for blog post
 ---
 
-## Title 1
+## Test Title
 
 This is a test file.
-
-demo
